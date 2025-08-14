@@ -3,23 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=00FFCA&center=true&vCenter=true&width=800&lines=Samir+Bhuiyan;Full+Stack+Developer+%7C+Bot+Specialist;17+Years+Old+%7C+4+Years+Experience;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/R-Samir-Bhuiyan-A">
-    <img src="https://img.shields.io/github/followers/R-Samir-Bhuiyan-A?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/R-Samir-Bhuiyan-A?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/R-Samir-Bhuiyan-A/R-Samir-Bhuiyan-A?label=Profile%20Size&style=social" alt="Profile Size" />
-  </a>
-  <a href="https://github.com/sponsors/R-Samir-Bhuiyan-A">
-    <img src="https://img.shields.io/github/sponsors/R-Samir-Bhuiyan-A?label=Sponsors&style=social" alt="GitHub Sponsors" />
-  </a>
-</p>
-
 <h2 align="center">🚀 Young Developer | Bot Specialist | Tech Explorer</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Samir-Bhuiyan-A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -57,17 +41,6 @@ As a student, I balance my academic responsibilities with my love for technology
   <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,docker,git,github,vscode,linux&perline=8" />
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Samir-Bhuiyan-A&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Samir-Bhuiyan-A&theme=radical&border_radius=10&hide_border=true&layout=compact" width="400" />
-</div>
-
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Samir-Bhuiyan-A&theme=radical&border_radius=10&hide_border=true" width="800" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -79,15 +52,11 @@ As a student, I balance my academic responsibilities with my love for technology
         <h3>🤖 Bot Manager (Pterodactyl-inspired)</h3>
         <p><i>Python • FastAPI • Docker</i></p>
         <p>Web-based management interface for Discord selfbots with AI-powered responses</p>
-        <img src="https://img.shields.io/github/stars/R-Samir-Bhuiyan-A/bot-manager?style=social" />
-        <img src="https://img.shields.io/github/forks/R-Samir-Bhuiyan-A/bot-manager?style=social" />
       </td>
       <td width="50%">
         <h3>🎮 Minecraft Kit Bot</h3>
         <p><i>EJS • JavaScript • Discord.js</i></p>
         <p>Kitchen delivery bot for Minecraft servers with Discord integration</p>
-        <img src="https://img.shields.io/github/stars/R-Samir-Bhuiyan-A/minecraft-kit-bot?style=social" />
-        <img src="https://img.shields.io/github/forks/R-Samir-Bhuiyan-A/minecraft-kit-bot?style=social" />
       </td>
     </tr>
     <tr>
@@ -95,23 +64,14 @@ As a student, I balance my academic responsibilities with my love for technology
         <h3>💳 MineWallet</h3>
         <p><i>Payment Gateway • Bangladesh Specific</i></p>
         <p>Wallet system for gamers and developers with Bkash/Nagad support</p>
-        <img src="https://img.shields.io/github/stars/R-Samir-Bhuiyan-A/minewallet?style=social" />
-        <img src="https://img.shields.io/github/forks/R-Samir-Bhuiyan-A/minewallet?style=social" />
       </td>
       <td width="50%">
         <h3>📱 Shawar App</h3>
         <p><i>Dart • Flutter</i></p>
         <p>Mobile application for food ordering</p>
-        <img src="https://img.shields.io/github/stars/R-Samir-Bhuiyan-A/shawar_app?style=social" />
-        <img src="https://img.shields.io/github/forks/R-Samir-Bhuiyan-A/shawar_app?style=social" />
       </td>
     </tr>
   </table>
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=R-Samir-Bhuiyan-A&theme=redical&hide_border=true&radius=10" width="800" />
 </div>
 
 ---
@@ -131,7 +91,6 @@ As a student, I balance my academic responsibilities with my love for technology
 </p>
 
 ### 📧 Get in Touch
-- **Email**: [Create an email badge with your email]
 - **Location**: Bangladesh
 - **Available for**: Freelance projects, Collaborations, Mentorship
 
@@ -159,13 +118,9 @@ As a student, I balance my academic responsibilities with my love for technology
 
 ---
 
-## 🏆 Achievements
+## 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-Samir-Bhuiyan-A&theme=radical&no-frame=true&row=1&column=7" width="800" />
-</div>
-
-### 🌟 GitHub Highlights
+### 📊 Repository Stats
 - **21** Public Repositories
 - **4** Stars on Top Project
 - **4+** Years of Coding Experience
@@ -173,27 +128,9 @@ As a student, I balance my academic responsibilities with my love for technology
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 💬 Favorite Quote
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=R-Samir-Bhuiyan-A&layout=compact&theme=radical&border_radius=10&hide_border=true" width="800" />
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800" />
-</div>
-
----
-
-## 📈 Visitor Counter
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Samir-Bhuiyan-A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
 
