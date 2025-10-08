@@ -185,8 +185,8 @@ const samir = new SamirBhuiyan();
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> **Contact Information**
 - 🌍 **Location**: Bangladesh
-- 📧 **Email**: [Create your email badge]
-- 🕒 **Availability**: Open to freelance projects and collaborations
+- 📧 **Email**: shamirbhuiyan4@gmail.com
+- 🕒 **Availability**: Open to freelance projects, collaborations and jobs
 
 </div>
 
