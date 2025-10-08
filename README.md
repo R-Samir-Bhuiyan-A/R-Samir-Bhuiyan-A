@@ -117,7 +117,7 @@ const samir = new SamirBhuiyan();
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> **Tools & Platforms**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nginx,mysql,mongodb,redis,nginx,heroku,vercel&perline=12" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nginx,mysql,mongodb,redis,nginx&perline=12" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **IDEs & Editors**
