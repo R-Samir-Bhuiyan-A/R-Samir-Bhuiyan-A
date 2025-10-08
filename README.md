@@ -267,7 +267,7 @@ const samir = new SamirBhuiyan();
 
 <br>
 
-- 🎂 I'm only **17 years old** but have been coding for **4+ years**
+- 🎂 I'm only **19 years old** but have been coding for **4+ years**
 - 🎮 I'm an avid **gamer** and love **Minecraft** and **Valorant**
 - 🌍 I'm from **Bangladesh** and proud of my cultural heritage
 - 📚 I'm constantly **learning** new technologies and frameworks
