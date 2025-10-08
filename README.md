@@ -112,7 +112,7 @@ const samir = new SamirBhuiyan();
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> **Frameworks & Libraries**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,express,django,flutter,bootstrap,tailwind,electron&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,bootstrap&perline=9" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> **Tools & Platforms**
